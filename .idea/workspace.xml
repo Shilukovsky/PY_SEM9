@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1598514-50e8-4ce1-88e7-fd3f68398d35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM8/User_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM8/choice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM8/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM8/onSEM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM8/User_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEM8/User_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM8/choice.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEM8/choice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEM8/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nickolay/Desktop/GB/Piton&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Nickolay/Desktop/GB/Piton",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main (2)">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Piton" />
@@ -201,6 +202,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -208,6 +212,11 @@
           <url>file://$PROJECT_DIR$/SEM2/DZ3.py</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SEM8/choice.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

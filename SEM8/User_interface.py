@@ -4,7 +4,7 @@ from choice import delete_record
 from choice import find_record
 
 
-def input_choice():
+def input_choice(db, cursor):
     while True:
         user_choice = input(
             '1 - посмотреть базу, 2 - добавить запись, 3 - удалить запись, 4 - найти по Ф.И.О:, q - выход:')
